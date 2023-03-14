@@ -13,7 +13,26 @@ I started learning programming on the **1st of November 2021** and at the time I
 
 ## **Skills**
 
+```json
+"skills": "html5, css3, sass/scss, flexbox, pixelperfect, javascript, typescript, webpack, vitejs, git/github, npm, figma, photoshop"
+```
+
 ## **Code example**
+
+**Moving Zeros To The End! KATA from CODEWARS:** _Write an algorithm that takes an array and moves all of the zeros to the end, preserving the order of the other elements._
+
+```
+function moveZeros(arr) {
+  const res = [];
+  const zero = [];
+
+  arr.forEach((item) => {
+    item === 0 ? zero.push(item) : res.push(item);
+  });
+
+  return res.concat(...zero);
+}
+```
 
 ## **Education**
 
