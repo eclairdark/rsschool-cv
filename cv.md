@@ -1,0 +1,53 @@
+# **Andrew Shumeiko**
+
+## **Contacts**
+
+- **E-mail:** **eclaircodedev@gmail.com**
+- **GitHub**: **[eclairdark](https://github.com/eclairdark)**
+
+## **About Me**
+
+I started learning programming on the **1st of November 2021** and at the time I didn't have any programming background. In finding myself, I was find my favorite pastime. I liked the feeling that I could solve the problems associated with development, and I decided that I wanted to do it professionally.
+
+## **Skills**
+
+```json
+"skills": "html5, css3, sass/scss, flexbox, pixelperfect, javascript, typescript, webpack, vitejs, git/github, npm, figma, photoshop"
+```
+
+## **Code example**
+
+**Moving Zeros To The End! KATA from CODEWARS:** _Write an algorithm that takes an array and moves all of the zeros to the end, preserving the order of the other elements._
+
+```
+function moveZeros(arr) {
+  const res = [];
+  const zero = [];
+
+  arr.forEach((item) => {
+    item === 0 ? zero.push(item) : res.push(item);
+  });
+
+  return res.concat(...zero);
+}
+```
+
+## **Education**
+
+- [Rolling Scopes School Stage **0** 2021Q4](https://rs.school/js-stage0/) (_finished_)
+- [Rolling Scopes School Stage **1** 2022Q1](https://rs.school/js/) (_finished_)
+- [Rolling Scopes School Stage **2** 2022Q1](https://rs.school/js/) (_unfinished_)
+- [Rolling Scopes School Stage **1** 2022Q3](https://rs.school/js/) (_unfinished_)
+- [Learn JavaScript](https://learn.javascript.ru/) (_in progress_)
+- [Udemy. The Complete JavaScript + React Course - From Zero to Result](https://www.udemy.com/course/javascript_full/) (_in progress_)
+- [MDN Frontend Course](https://developer.mozilla.org/ru/docs/Learn/Front-end_web_developer) (_finished_)
+- [Build JavaScript applications using TypeScript](https://docs.microsoft.com/en-us/learn/paths/build-javascript-applications-typescript/) (_finished_)
+
+## **Work experience**
+
+No work experience yet
+
+## **Languages**
+
+**English** - A2 (pre-intermediate)<br>
+**Russian** - Native speaker
