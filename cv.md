@@ -2,14 +2,19 @@
 
 # **Andrew Shumeiko**
 
-# **Contacts**
+## **Contacts**
 
-# **About Me**
+- **E-mail:** **eclaircodedev@gmail.com**
+- **GitHub**: **[eclairdark](https://github.com/eclairdark)**
 
-# **Skills**
+## **About Me**
 
-# **Code example**
+I started learning programming on the **1st of November 2021** and at the time I didn't have any programming background. In finding myself, I was find my favorite pastime. I liked the feeling that I could solve the problems associated with development, and I decided that I wanted to do it professionally.
 
-# **Education**
+## **Skills**
 
-# **Languages**
+## **Code example**
+
+## **Education**
+
+## **Languages**
